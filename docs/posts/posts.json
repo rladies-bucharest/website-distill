@@ -1,0 +1,110 @@
+[
+  {
+    "path": "posts/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/",
+    "title": "meetup13: Ana-Maria Niculescu & Frie Preu ",
+    "description": "O intalnire despre R, git, Github & Raspberry Pi.",
+    "author": [
+      {
+        "name": "Bucharest R-Ladies",
+        "url": "https://www.rladiesbucharest.org/"
+      }
+    ],
+    "date": "2020-11-24",
+    "categories": [
+      "R",
+      "Bucharest",
+      "meetup-retrospective",
+      "git",
+      "github",
+      "raspberrypi"
+    ],
+    "contents": "\r\nO noua intalnire despre R, in care am descoperit cateva lucruri interesante.\r\nAna-Maria Niculescu, data scientist Numeract si coFondator Bucharest WiMLDS, a venit sa ne povesteasca cum sa pornim cu git si Github folosind R Studio.\r\nGit este un sistem de distributie a versiunilor de cod, este gratuit si open source. Un tool care ajuta la managementul evolutiei versiunilor de cod folosite.\r\nGithub este un serviciu de web-hosting pentru managementul versiunilor cu git.\r\nPentru exemplele discutate in meetup este suficienta instalarea programelor R, git & R Studio. git putand fi accesat direct din R Studio.\r\nIn concluzie, o prezentare interesanta, cu recomandari si surse foarte utile oricui la inceput de drum cu aceste instrumente. Prezentarea o gasiti aici\r\nFrie Preu, data scientist si COO CorellAid ne-a prezentat calatoria unui proiect de #data4good folosind Raspberry Pi si R. Foarte multe repere interesante despre cum se pot automatiza fluxurile de date, ce pasi trebuie sa avem in vedere sau cum arata o arhitectura minima. Extraordinar este modalitatea in care s-a folosit acest tip de computer, de tip Raspberry Pi pentru a functiona precum un mini server. Prezentarea lui Frie o gasiti aici si, desigur, o puteri urmari pe blogul ei frie.codes\r\nPentru cei care nu ati reusit sa ajungeti, inregistrarea intalnirii este acum disponibila pe youtube:\r\n\r\n\r\n\r\n\r\nPe Social Media am primit via Twitter cateva mesaje de feedback. Multumim <3!\r\n\r\n\r\n\r\nFabulous talk from @ameisen_strasse about the using R and a Raspberry Pi to collect social media data @rladiesbuchares #rstats pic.twitter.com/QDbfi8D9vC\r\n\r\n— R-Ladies Saudi Arabia (Dammam) (@RLadiesDammam) November 24, 2020\r\n\r\n\r\n\r\n\r\n\r\nAgreed! ✨ @rladiesbuchares https://t.co/F3YTc3YMkK\r\n\r\n— R-Ladies Tunis (@RLadiesTunis) November 24, 2020\r\n\r\n\r\nNu uitati sa ne sustineti printr-un like, share sau implicarea in evenimentele noastre! Next meetup: 15 Decembrie\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-24T23:36:10+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-10-20-meetup12-text-mining-with-r-speaker-aurore-paligot/",
+    "title": "meetup12: Text mining cu R - Aurore Paligot",
+    "description": "Deschiderea sezonului de intalniri, continua online cu o intalnire de tip tutorial sustinuta de Aurore Paligot, Data Analytics Consultant, Phd.",
+    "author": [
+      {
+        "name": "Bucharest R-Ladies",
+        "url": "https://www.rladiesbucharest.org/"
+      }
+    ],
+    "date": "2020-10-20",
+    "categories": [
+      "R",
+      "Bucharest",
+      "meetup-retrospective"
+    ],
+    "contents": "\r\nDeschiderea sezonului de intalniri, continua online cu o intalnire de tip tutorial sustinuta de Aurore Paligot, Data Analytics Consultant, Phd. .\r\nIn seara aceasta, am descoperit cateva repedere despre ce inseamna text mining si cum putem sa pornim in aceasta explorare a textului. Aurore Paligot expert in lingvistica si pasionata de acest domeniu poate fi urmarite online pe blog sau Linkedin.\r\nInregistrarea intalnirii este disponibila pe youtube\r\n\r\n\r\n\r\n\r\nSocial Media via Twitter feedback\r\n\r\n\r\n\r\nMeetup#12 is over 📩 and available on youtube. https://t.co/sGAQBJfPfV Thank you once again,@AurorePaligot ! Meanwhile we prepare the November meetup on Git, Github & raspberry pi: https://t.co/9WY30YuCjf#letsR #RLadies #rladiesbucharest\r\n\r\n— R-Ladies Bucharest (@rladiesbuchares) October 22, 2020\r\n\r\n\r\nNu uitati sa ne sustineti printr-un like, share sau implicarea in evenimentele noastre!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-24T23:40:14+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-09-30-primul-panel-al-comunitatii/",
+    "title": "Primul panel al comunitatii",
+    "description": "Am discutat teme de R in statistica, machine learning si data science.",
+    "author": [
+      {
+        "name": "Bucharest R-Ladies",
+        "url": "https://www.rladiesbucharest.org/"
+      }
+    ],
+    "date": "2020-09-30",
+    "categories": [
+      "R",
+      "Bucharest",
+      "meetup-retrospective"
+    ],
+    "contents": "\r\nDeschiderea noului sezon de intalniri, a pornit cu o revedere - online - a speakerilor din intalnirile anterioare. Ne-am bucurat sa ii revedem pe:\r\nAna Maria Niculescu, Lead Data Scientist\r\nSimona Grădinaru, Market Research, Data Scientist, Drd\r\nAndra Garoi, Jr Data Scientist, Data Science Master Student\r\nMaria Romanescu, Jr Data Scientist, Data Science Master Student\r\nAlexandra Conda, Data Science Master Student\r\nCristi Cernat, IT Architect & Docker Expert.\r\nAm discutat impreuna despre experienta de a povesti si a pregati subiecte interesante de R, uneori pentru a descoperi domenii noi sau pentru a contribui la cresterea cunostiintelor comunitatii.\r\nCeea ce ne-a legat a fost comunitatea, care se diferentiaza prin puterea globala de a ajutor reciproc, dezinteresat, venit din prisma dorintei de a intoarce comunitatii ajutorul primit la un moment dat fie prin grupul slack, twitter sau alte canale. De asemenea, o concluzie interesanta a fost legata de modalitatea de a continua promovarea evenimentelor folosind Facebook, astfel ca vom incerca sa reluam evenimentele Facebook, chiar daca inscrierea va continua prin meetup, iar locatia va ramane Zoom.\r\nAm continuat discutia cu un topic de interes si, anume, clasamentul TIOBE\r\nConform ultimului clasament publicat de TIOBE, limbajul R a revenit în top 10, inregistrand una din cele mai mari creșteri. Părerile fiind diverse, cei care realizeaza acest clasament, cat si participantii in panel au ajuns la aceeasi concluzie legata de faptul ca nevoia de analize rapide în context COVID a fost un mediu propice pt R, cât si faptul ca exista un schimb de cultură din perspectiva tool-urilor folosite de data scientisti in detrimentul tool-urilor legacy/corporate.\r\nDiscutand despre comunitatea R in Romania, este clar nevoie ca aceasta comunitate sa fie mai vizibila, deoarece sunt multi utilizatori. Cu toate acestea, concluzia discutiei a fost ca educatia si modul nostru de colaborare in Romania nu ne dezvolta aceasta competenta de a ne regasi pentru proiecte de constructie.\r\nContinuand cu subiectul diversitatii, asa cum cineva imi spunea intr-o alta intalnire, este o nevoie continuua de modele pentru ca acestea sa devina inspiratie pentu viitoarele fete. In Romania, ne bucuram de un procent de 26-27% participare a femeilor in roluri IT, datorat sistemului de educatie trecut, unde fetele invatau temeinic.\r\nStatistica, Machine Learning si Data Science. Hype sau concepte de baza? De ce mai multe discutii despre python vs R, in loc de metode si rezultate? indiferent ca vorbim de un limbaj sau altul. Concluzia discutiei a fost ca in unele echipe, depinde foarte mult de experienta echipei, in altele de infrastructura disponibila si obiectivele produsului la care se lucreaza. In general, in Romania R este mai intalnit in mediul academic sau de cercetare, mai putin asumat de companiile private.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-24T22:09:48+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-09-05-final-de-sezon/",
+    "title": "Final de sezon",
+    "description": "R-Ladies Bucharest, o comunitate pentru orice femeie sau tanara care doreste sa foloseasca R pentru analize statistice, programarea de aplicatii sau contruirea rapida de MVPs in domeniul data science.",
+    "author": [
+      {
+        "name": "Bucharest R-Ladies",
+        "url": "https://www.rladiesbucharest.org/"
+      }
+    ],
+    "date": "2020-09-05",
+    "categories": [
+      "R",
+      "Bucharest"
+    ],
+    "contents": "\r\nR-Ladies Bucharest la finalul primului an de intalniri este\r\nEste o comunitate pentru orice femeie sau tanara care doreste sa foloseasca R pentru analize statistice, programarea de aplicatii sau contruirea rapida de MVPs in domeniul data science. Este acea comunitate sigura, deschisa tuturor participantilor si orientata spre invatare continuua. Este locul in care poti intreba de o mie de ori\r\nDe ce R?,\r\nCum automatizez cu R raportul saptamanal din Excel?,\r\nAm un fisier imens si nu stiu cum sa-l curat,\r\nVreau sa estimez un esantion, dar nu stiu de unde sa incep,\r\nVreau sa construiesc un raport RMarkdown, dar nu reusesc sa sumarizez corect.. etc.\r\nEste R-Ladies doar R-Ladies?\r\nSuntem o comunitate inclusiva, oricine se inscrie la evenimentele noastre si adera la Codul de Conduita poate participa la evenimentele noastre. Focusul nostru principal ramane insa cresterea ponderii vocilor feminine romanesti implicate in activitatea cu limbajul R.\r\nCare sunt realizarile 2019/2020?\r\no comunitate faina cu 155 membri pe meetup\r\n10 intalniri lunare\r\n7 voci feminine, din care 6 voci feminine noi\r\n1 meetup transmis pe youtube ( 175+ views)\r\n1 participant din Romania in cadrul proiectului global Twitter Curatios - WeAreRLadies\r\nCare sunt planurile pentru viitor?\r\nNe dorim sa continuam cresterea acestei comunitatii deschise catre invatare continuua. Vrem sa inspiram cat mai multe femei sa incerce R in activitatea lor si sa vorbeasca despre asta.\r\nDaca iti doresti sa devii voluntar R Ladies Bucharest, ne poti scrie pe orice canal de social media sau email bucuresti at rladies.org .\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-24T22:04:02+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-03-08-ziua-femeii/",
+    "title": "8 Martie - Ziua Internationala a Femeii",
+    "description": "International Women Day - IWD 2020,Bucharest",
+    "author": [
+      {
+        "name": "Bucharest R-Ladies",
+        "url": "https://www.rladiesbucharest.org/"
+      }
+    ],
+    "date": "2020-03-08",
+    "categories": [
+      "R",
+      "Bucharest",
+      "Ziua femeii",
+      "Simona Gradinaru"
+    ],
+    "contents": "\r\nNe-am propus sa organizam o intalnire speciala, in care sa implicam cat mai multe femei cu ajutorul carora sa construim o poveste folosind R.\r\nSimona Gradinaru, data scientist, ne-a pregatit o analiza ampla folosind datele INS. Pornind de la aceasta initiativa si analiza, Ana-Maria si Claudia Voicila au construit cateva exemple care marcheaza ziua de 8 Martie. Exemplele au fost publicate pe pagina de facebook a grupului.\r\nNe bucuram ca am tinut aceasta intalnire online, folosind google meet si astfel am continuat seria intalnirilor despre R, in ciuda pandemiei pe care o traversam.\r\nDetalii: aici\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-24T22:03:02+03:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Bucharest</title>
+    <link>.</link>
+    <atom:link href="./blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Pagina oficiala a comunitatii R-Ladies Bucharest. Construita in R cu distill, postcards &amp; rmarkdown
+</description>
+    <image>
+      <title>Bucharest</title>
+      <url>./images/favicon.png</url>
+      <link>.</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>meetup13: Ana-Maria Niculescu &amp; Frie Preu </title>
+      <dc:creator>Bucharest R-Ladies</dc:creator>
+      <link>./posts/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi</link>
+      <description>&lt;p&gt;O intalnire despre R, git, Github &amp;amp; Raspberry Pi.&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Bucharest</category>
+      <category>meetup-retrospective</category>
+      <category>git</category>
+      <category>github</category>
+      <category>raspberrypi</category>
+      <guid>./posts/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi</guid>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>meetup12: Text mining cu R - Aurore Paligot</title>
+      <dc:creator>Bucharest R-Ladies</dc:creator>
+      <link>./posts/2020-10-20-meetup12-text-mining-with-r-speaker-aurore-paligot</link>
+      <description>&lt;p&gt;Deschiderea sezonului de intalniri, continua online cu o intalnire de tip tutorial sustinuta de Aurore Paligot, Data Analytics Consultant, Phd.&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Bucharest</category>
+      <category>meetup-retrospective</category>
+      <guid>./posts/2020-10-20-meetup12-text-mining-with-r-speaker-aurore-paligot</guid>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Primul panel al comunitatii</title>
+      <dc:creator>Bucharest R-Ladies</dc:creator>
+      <link>./posts/2020-09-30-primul-panel-al-comunitatii</link>
+      <description>&lt;p&gt;Am discutat teme de R in statistica, machine learning si data science.&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Bucharest</category>
+      <category>meetup-retrospective</category>
+      <guid>./posts/2020-09-30-primul-panel-al-comunitatii</guid>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Final de sezon</title>
+      <dc:creator>Bucharest R-Ladies</dc:creator>
+      <link>./posts/2020-09-05-final-de-sezon</link>
+      <description>&lt;p&gt;R-Ladies Bucharest, o comunitate pentru orice femeie sau tanara care doreste sa foloseasca R pentru analize statistice, programarea de aplicatii sau contruirea rapida de MVPs in domeniul data science.&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Bucharest</category>
+      <guid>./posts/2020-09-05-final-de-sezon</guid>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Martie - Ziua Internationala a Femeii</title>
+      <dc:creator>Bucharest R-Ladies</dc:creator>
+      <link>./posts/2020-03-08-ziua-femeii</link>
+      <description>&lt;p&gt;International Women Day - IWD 2020,Bucharest&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Bucharest</category>
+      <category>Ziua femeii</category>
+      <category>Simona Gradinaru</category>
+      <guid>./posts/2020-03-08-ziua-femeii</guid>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

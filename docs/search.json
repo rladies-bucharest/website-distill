@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "R-Ladies Bucharest",
+      "description": "Suntem parte a unei miscari globale care promoveaza accesul identitatilor minoritare la skill-uri de R.",
+      "author": [],
+      "contents": "\r\nCe facem, de fapt?\r\nCu ajutorul membrilor voluntari am construit o comunitate deschisa si sigura orientata spre mentorat, networking si imbunatatirea cunostiintelor de R (de orice nivel).\r\nIncurajam participarea tuturor celor interesati de R, indiferent de nivelul de cunostiinte, atat timp cat se respecta Codul Global de Conduita.\r\nNe vedem lunar in hubul V7 Startup Studio sau online, in perioada pandemiei.\r\nDiscutam subiecte ce includ limbajul R, dar si de interesul comunitatii.\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-25T00:54:28+03:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-25T00:54:30+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Parte din miscarea globala care promoveaza accesul identitatilor minoritare la skill-uri de R",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n      \r\n      Bucharest\r\n      \r\n      \r\n      Home\r\n      About\r\n      Blog\r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Parte din miscarea globala care promoveaza accesul identitatilor minoritare la skill-uri de R\r\n          \r\n          \r\n            \r\n              R Ladies Bucharest, o comunitate R pentru toate femeile\r\n            \r\n            \r\n              R Ladies Bucharest, o comunitate R pentru toate femeile\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      Meetup\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Facebook\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    Meetup\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Facebook\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    \r\n      O comunitate pentru toate femeile\r\n       R-Ladies Bucharest  © Copyright document.write(new Date().getFullYear())\r\n      \r\n      \r\n    \r\n  ",
+      "last_modified": "2020-12-25T00:55:57+03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

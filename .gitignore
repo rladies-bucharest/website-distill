@@ -1,0 +1,16 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# RStudio files
+.Rproj.user
+.Ruserdata
+.Rhistory
+.Rproj.user/
+
+# R folder
+/R/
+
+/images/
+
+

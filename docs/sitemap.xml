@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>./about.html</loc>
+    <lastmod>2020-12-24T20:10:13+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./blog.html</loc>
+    <lastmod>2020-12-24T19:34:35+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./</loc>
+    <lastmod>2020-12-25T00:55:51+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./posts/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</loc>
+    <lastmod>2020-12-24T23:36:10+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./posts/2020-10-20-meetup12-text-mining-with-r-speaker-aurore-paligot/</loc>
+    <lastmod>2020-12-24T23:40:14+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./posts/2020-09-30-primul-panel-al-comunitatii/</loc>
+    <lastmod>2020-12-24T22:09:48+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./posts/2020-09-05-final-de-sezon/</loc>
+    <lastmod>2020-12-24T22:04:02+03:00</lastmod>
+  </url>
+  <url>
+    <loc>./posts/2020-03-08-ziua-femeii/</loc>
+    <lastmod>2020-12-24T22:03:02+03:00</lastmod>
+  </url>
+</urlset>
